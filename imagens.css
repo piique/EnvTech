@@ -1,0 +1,14 @@
+body{
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+div#imagens {
+    min-width    : max-content;
+    min-height   : min-content;
+    margin-top   : 3%;
+    margin-left  : 5%;
+    display      : block;
+    position     : static;
+    float        : left;
+    margin-bottom: 5%;
+}
